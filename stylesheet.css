@@ -22,6 +22,9 @@ h1{
 body{
     background-color:black;
     color: white;
+    height: 2000px;
+    width:60%;
+    margin: auto;
 }
 
 
