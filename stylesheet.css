@@ -11,6 +11,8 @@ h1{
 
 .background{
     height: 1000px;
+    padding: 20px;
+    border: 20px solid brown;
 }
 
 .class{
@@ -25,6 +27,7 @@ body{
     height: 2000px;
     width:60%;
     margin: auto;
+    padding: 50px;
 }
 
 .link{
