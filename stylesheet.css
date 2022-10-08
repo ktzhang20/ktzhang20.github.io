@@ -27,6 +27,9 @@ body{
     margin: auto;
 }
 
+.link{
+    width: 100px;
+}
 
 a:link{
     color: yellow;
